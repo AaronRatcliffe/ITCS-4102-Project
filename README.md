@@ -12,7 +12,9 @@ Tile class - makes changes to the board by which button was pressed and whose tu
 
 Checks class - checks the board state after each move made and determines if someone has won the game or if it is a draw.
 
-Setup:
-first - install the latest version of JVM.
-Second - install the golang tool and set up your Gopaths http://www.wadewegner.com/2014/12/easy-go-programming-setup-for-windows/
-Third - set up the GUI support. https://github.com/therecipe/qt#installation use the Regular setup section
+exicution steps:
+Run the exicutable.
+
+Setup to edit code:
+First - Install the golang tool and set up your Gopaths http://www.wadewegner.com/2014/12/easy-go-programming-setup-for-windows/
+Second - Set up the GUI support. https://github.com/therecipe/qt#installation use the Regular setup section.
